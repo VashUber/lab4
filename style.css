@@ -71,7 +71,7 @@
   height: 390px;
 }
 .inf{
-  width: 700px;
+  width: 647px;
   height: 200px;
   text-align: left;
   margin-top: 30px;
@@ -84,4 +84,36 @@
   margin-left: 330px;
   font-size: 18px;
   font-family: sans-serif;
+}
+.about{
+  font-size: 46px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 710px;
+}
+.text{
+  font-family: sans-serif;
+  text-align: left;
+  width: 550px;
+  margin-left: 842px;
+  margin-top: 80px;
+  font-size: 14px;
+}
+.ph2{
+  float:left;
+  margin-left: 30px;
+}
+.ph22{
+  width: 638px;
+  height: 700px;
+}
+.vr{
+  margin-top: 160px;
+}
+.line{
+  border-left: 2px solid black;
+  height: 69px;
+  position: absolute;
+  margin-left: 759px;
 }
