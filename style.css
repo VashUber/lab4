@@ -86,9 +86,8 @@
   font-family: sans-serif;
 }
 .about{
-  font-size: 46px;
+  font-size: 69px;
   font-family: sans-serif;
-  font-weight: bold;
   text-align: center;
   margin-left: 710px;
 }
@@ -113,7 +112,120 @@
 }
 .line{
   border-left: 2px solid black;
-  height: 69px;
+  height: 79px;
   position: absolute;
   margin-left: 759px;
+}
+.ots{
+  margin-top: 180px;
+}
+.cont{
+  font-size: 69px;
+  font-family: sans-serif;
+  margin-top: 280px;
+  margin-left: 211px;
+}
+.ad{
+  margin-top: 150px;
+  font-family: sans-serif;
+  margin-left: 30px;
+  font-weight: bolder;
+}
+.ad1{
+  margin-top: 8px;
+  margin-left: 30px;
+  width: 150px;
+  font-family: sans-serif;
+}
+.phon{
+  margin-top: 30px;
+  font-family: sans-serif;
+  margin-left: 30px;
+  font-weight: bolder;
+}
+.phon1{
+  margin-top: 8px;
+  margin-left: 30px;
+  width: 150px;
+  font-family: sans-serif;
+}
+.em{
+  position: absolute;
+  font-family: sans-serif;
+  margin-left: 350px;
+  margin-top: 30px;
+  font-weight: bolder;
+}
+.em1{
+  position: absolute;
+  margin-left: 350px;
+  width: 150px;
+  font-family: sans-serif;
+  margin-top: 55px;
+}
+.table1{
+  background: #f1f1f1;
+  width: 340px;
+  height: 28px;
+  border: none;
+  margin-right: 120px;
+  margin-top: 25px;
+}
+.fr{
+  float: right;
+  margin-top: 50px;
+}
+.name{
+  font-family: sans-serif;
+  position: absolute;
+}
+.table2{
+  background: #f1f1f1;
+  width: 340px;
+  height: 28px;
+  border: none;
+  margin-right: 120px;
+  margin-top: 40px;
+}
+.email{
+  margin-top: 15px;
+  font-family: sans-serif;
+  position: absolute;
+}
+.mes{
+  margin-top: 15px;
+  font-family: sans-serif;
+  position: absolute;
+}
+.table3{
+  background: #f1f1f1;
+  width: 340px;
+  height: 160px;
+  border: none;
+  margin-right: 120px;
+  margin-top: 40px;
+  resize: none;
+}
+.but{
+  margin-left: 145px;
+  margin-top: 12px;
+  outline: none;
+  border: none;
+  background: white;
+  font-family: sans-serif;
+}
+.last{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 120px;
+  font-size: 24px;
+  margin-left: 130px;
+  margin-bottom: 60px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  font-weight: bold;
 }
