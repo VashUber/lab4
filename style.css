@@ -5,10 +5,7 @@
   float:right;
   font-family: sans-serif;
   font-size: 21px;
-}
-.p1{
-  margin-top: 70px;
-  width: 100%;
+  margin-bottom: 70px;
 }
 *{
   margin: 0;
@@ -54,12 +51,16 @@
   height: 36px;
   background: #c8c3c3;
 }
+.box1{
+  margin-top: 0px;
+  margin-left: 745px;
+  width: 36px;
+  height: 36px;
+  background: #c8c3c3;
+}
 .opt{
   float:left;
-  margin-top: 45px;
-}
-.pl:hover{
-  font-weight: bold;
+  margin-top: 0px;
 }
 .k1{
   position: absolute;
@@ -84,31 +85,6 @@
   margin-left: 330px;
   font-size: 18px;
   font-family: sans-serif;
-}
-.about{
-  font-size: 69px;
-  font-family: sans-serif;
-  text-align: center;
-  margin-left: 710px;
-}
-.text{
-  font-family: sans-serif;
-  text-align: left;
-  width: 550px;
-  margin-left: 842px;
-  margin-top: 80px;
-  font-size: 14px;
-}
-.ph2{
-  float:left;
-  margin-left: 30px;
-}
-.ph22{
-  width: 638px;
-  height: 700px;
-}
-.vr{
-  margin-top: 160px;
 }
 .line{
   border-left: 2px solid black;
@@ -228,4 +204,55 @@ a{
 }
 a:hover{
   font-weight: bold;
+}
+.op1{
+  float:left;
+  margin-left: 30px;
+  margin-right: 143px;
+}
+.about{
+  font-family: sans-serif;
+  font-size: 69px;
+  text-align: right;
+  margin-right: 270px;
+  margin-top: 160px;
+}
+.text1{
+  font-family: sans-serif;
+  font-size: 14px;
+  margin-top: 85px;
+  height: 100px;
+  width: 1400px;
+  line-height: 25px;
+}
+.sasha{
+  margin-bottom: 565px;
+}
+.f1{
+  float: left;
+  width: 759px;
+  height: 544px;
+}
+.f2{
+  width: 759px;
+  height: 544px;
+}
+.f3{
+  float:left;
+  width: 25%;
+}
+.f4{
+  float:left;
+  width: 25%;
+}
+.f5{
+  width: 25%;
+  float:left;
+  height: 380px;
+}
+.f6{
+  width: 25%;
+}
+img{
+  display: block;
 }
