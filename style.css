@@ -33,35 +33,6 @@
   font-family: sans-serif;
   margin-right: 80px;
 }
-.ido{
-  font-family: sans-serif;
-  font-size: 28px;
-  margin-top: 110px;
-}
-.pl{
-  margin-top: 70px;
-  margin-left: 690px;
-  text-align: center;
-  list-style-type: none;
-}
-.box{
-  margin-top: 65px;
-  margin-left: 745px;
-  width: 36px;
-  height: 36px;
-  background: #c8c3c3;
-}
-.box1{
-  margin-top: 0px;
-  margin-left: 745px;
-  width: 36px;
-  height: 36px;
-  background: #c8c3c3;
-}
-.opt{
-  float:left;
-  margin-top: 0px;
-}
 .k1{
   position: absolute;
   margin-top: 110px;
@@ -255,4 +226,73 @@ a:hover{
 }
 img{
   display: block;
+}
+.box1:hover + .pl1{
+  font-weight: bold;
+}
+.box1:hover{
+  background: grey;
+}
+.ots1{
+  margin-top: 60px;
+  margin-bottom: 550px;
+}
+.pl1, .pl2, .pl3, .pl4{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 24px;
+  position: absolute;
+}
+.box1, .box2, .box3, .box4{
+  width: 36px;
+  height: 36px;
+  background: #c8c3c3;
+  position: absolute;
+  margin-left: 745px;
+}
+.pl1{
+  margin-top: 65px;
+  margin-left: 1026px;
+}
+.box1{
+  margin-top: 60px;
+}
+.pl2{
+  margin-top: 165px;
+  margin-left: 1046px;
+}
+.box2{
+  margin-top: 160px;
+}
+.pl3{
+  margin-top: 265px;
+  margin-left: 1048px;
+}
+.box3{
+  margin-top: 260px;
+}
+.pl4{
+  margin-top: 365px;
+  margin-left: 1000px
+}
+.box4{
+  margin-top: 360px;
+}
+.box2:hover + .pl2{
+  font-weight: bold;
+}
+.box2:hover{
+  background: grey;
+}
+.box3:hover + .pl3{
+  font-weight: bold;
+}
+.box3:hover{
+  background: grey;
+}
+.box4:hover + .pl4{
+  font-weight: bold;
+}
+.box4:hover{
+  background: grey;
 }
