@@ -4,7 +4,7 @@
   margin-top: 70px;
   float:right;
   font-family: sans-serif;
-  font-size: 21px;
+  font-size: 18px;
   margin-bottom: 70px;
 }
 *{
@@ -32,6 +32,8 @@
 .t1{
   font-family: sans-serif;
   margin-right: 80px;
+  line-height: 25px;
+  font-size: 14px;
 }
 .k1{
   position: absolute;
@@ -49,6 +51,8 @@
   margin-top: 30px;
   margin-left: 30px;
   font-family: sans-serif;
+  line-height: 25px;
+  font-size: 14px;
 }
 .ab{
   font-weight: bold;
@@ -165,7 +169,7 @@
   font-family: sans-serif;
   font-weight: bold;
   margin-top: 120px;
-  font-size: 24px;
+  font-size: 18px;
   margin-left: 130px;
   margin-bottom: 60px;
 }
@@ -227,12 +231,6 @@ a:hover{
 img{
   display: block;
 }
-.box1:hover + .pl1{
-  font-weight: bold;
-}
-.box1:hover{
-  background: grey;
-}
 .ots1{
   margin-top: 60px;
   margin-bottom: 550px;
@@ -278,21 +276,27 @@ img{
 .box4{
   margin-top: 360px;
 }
-.box2:hover + .pl2{
-  font-weight: bold;
-}
-.box2:hover{
+.hv:hover .box1{
   background: grey;
 }
-.box3:hover + .pl3{
+.hv:hover .pl1{
   font-weight: bold;
 }
-.box3:hover{
+.hv:hover .box2{
   background: grey;
 }
-.box4:hover + .pl4{
+.hv:hover .pl2{
   font-weight: bold;
 }
-.box4:hover{
+.hv:hover .box3{
   background: grey;
+}
+.hv:hover .pl3{
+  font-weight: bold;
+}
+.hv:hover .box4{
+  background: grey;
+}
+.hv:hover .pl4{
+  font-weight: bold;
 }
